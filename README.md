@@ -1,2 +1,2 @@
-# Python-Projects-67
+# Personal Projects
 Python Practice 
